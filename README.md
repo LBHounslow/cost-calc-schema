@@ -8,6 +8,7 @@ This repository contains the documentaion for the different schema that the cost
 ## Current Schema
 
 - ASC01: Adult Social Care Services
+- GS00: General Services (a generic schema)
 - H01A: Temporary Accommodation
 - RB01: Housing Benefit Entitlement
 - RB03: Housing Benefit Switch
